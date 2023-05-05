@@ -1,0 +1,698 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.4.0" title="Shotcut version 22.01.30" producer="main_bin">
+  <profile description="automatic" width="1440" height="900" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="8" display_aspect_den="5" frame_rate_num="60" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" out="00:00:11.067">
+    <property name="length">00:00:11.083</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/1.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e7e0308de44f855fd53cd5d63215c709</property>
+  </chain>
+  <chain id="chain1" out="00:00:15.150">
+    <property name="length">00:00:15.167</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/2.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a3498e7b827112d07812555ca09ca72f</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">2.webm</property>
+  </chain>
+  <chain id="chain2" out="00:00:09.917">
+    <property name="length">00:00:09.933</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/3.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ff655018cdbdd93a49dcaef0d5d0de2c</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">3.webm</property>
+  </chain>
+  <chain id="chain3" out="00:00:13.267">
+    <property name="length">00:00:13.283</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/4.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9dbf66eacdfc6cdda57846e009d62bd0</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">4.webm</property>
+  </chain>
+  <chain id="chain4" out="00:00:12.067">
+    <property name="length">00:00:12.083</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/5.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c74e2da6ac018922b5252377f8ad1338</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">5.webm</property>
+  </chain>
+  <chain id="chain5" out="00:00:21.967">
+    <property name="length">00:00:21.983</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/6.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">be69943507c1699a08171eaa90e48e80</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">6.webm</property>
+  </chain>
+  <chain id="chain6" out="00:00:20.500">
+    <property name="length">00:00:20.517</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/7.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">60c4e9b33eebe38bbce134aff4130964</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">7.webm</property>
+  </chain>
+  <chain id="chain7" out="00:00:15.183">
+    <property name="length">00:00:15.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/8.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0823588ed61a78aca545c0a84b7e2fa6</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">8.webm</property>
+  </chain>
+  <chain id="chain8" out="00:00:20.867">
+    <property name="length">00:00:20.883</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/9.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">23493d3b7d92c5bcc4cc7aba20821a69</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">9.webm</property>
+  </chain>
+  <chain id="chain9" out="00:00:18.967">
+    <property name="length">00:00:18.983</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/10.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2420874069786c3653d00b0b4cc46910</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">10.webm</property>
+  </chain>
+  <chain id="chain10" out="00:00:24.400">
+    <property name="length">00:00:24.417</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/11.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5eb8438e2518fad1df5182d9f93edb43</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">11.webm</property>
+  </chain>
+  <chain id="chain11" out="00:00:18.517">
+    <property name="length">00:00:18.533</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/12.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ea3972c025bf77f75ce29a978e3e0594</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">12.webm</property>
+  </chain>
+  <chain id="chain12" out="00:00:14.483">
+    <property name="length">00:00:14.500</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/13.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">341d11318f5a0536b7ce3ace9d8caacd</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">13.webm</property>
+  </chain>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:11.067"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:15.150"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:09.917"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:00:13.267"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:00:12.067"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:21.967"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:00:20.500"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:00:15.183"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:00:20.867"/>
+    <entry producer="chain9" in="00:00:00.000" out="00:00:18.967"/>
+    <entry producer="chain10" in="00:00:00.000" out="00:00:24.400"/>
+    <entry producer="chain11" in="00:00:00.000" out="00:00:18.517"/>
+    <entry producer="chain12" in="00:00:00.000" out="00:00:14.483"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:03:20.950">
+    <property name="length">00:03:20.967</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:03:20.950"/>
+  </playlist>
+  <chain id="chain25" out="00:00:11.067">
+    <property name="length">00:00:11.083</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/1.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">e7e0308de44f855fd53cd5d63215c709</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">1.webm</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain13" out="00:00:15.150">
+    <property name="length">00:00:15.167</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/2.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a3498e7b827112d07812555ca09ca72f</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2.webm</property>
+  </chain>
+  <tractor id="tractor0" in="00:00:00.000" out="00:00:00.700">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain25" in="00:00:10.367" out="00:00:11.067"/>
+    <track producer="chain13" in="00:00:00.000" out="00:00:00.700"/>
+    <transition id="transition0" out="00:00:00.700">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.700">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain14" out="00:00:09.917">
+    <property name="length">00:00:09.933</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/3.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ff655018cdbdd93a49dcaef0d5d0de2c</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">3.webm</property>
+  </chain>
+  <tractor id="tractor1" in="00:00:00.000" out="00:00:00.917">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain13" in="00:00:13.317" out="00:00:14.233"/>
+    <track producer="chain14" in="00:00:00.917" out="00:00:01.833"/>
+    <transition id="transition2" out="00:00:00.917">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma07.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="invert">0</property>
+      <property name="progressive">1</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition3" out="00:00:00.917">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain15" out="00:00:13.267">
+    <property name="length">00:00:13.283</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/4.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9dbf66eacdfc6cdda57846e009d62bd0</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">4.webm</property>
+  </chain>
+  <tractor id="tractor2" in="00:00:00.000" out="00:00:00.600">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain14" in="00:00:09.317" out="00:00:09.917"/>
+    <track producer="chain15" in="00:00:00.000" out="00:00:00.600"/>
+    <transition id="transition4" out="00:00:00.600">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma03.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition5" out="00:00:00.600">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain16" out="00:00:12.067">
+    <property name="length">00:00:12.083</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/5.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c74e2da6ac018922b5252377f8ad1338</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">5.webm</property>
+  </chain>
+  <tractor id="tractor3" in="00:00:00.000" out="00:00:00.767">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain15" in="00:00:12.500" out="00:00:13.267"/>
+    <track producer="chain16" in="00:00:00.000" out="00:00:00.767"/>
+    <transition id="transition6" out="00:00:00.767">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma04.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition7" out="00:00:00.767">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain17" out="00:00:21.967">
+    <property name="length">00:00:21.983</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/6.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">be69943507c1699a08171eaa90e48e80</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">6.webm</property>
+  </chain>
+  <tractor id="tractor4" in="00:00:00.000" out="00:00:00.650">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain16" in="00:00:11.417" out="00:00:12.067"/>
+    <track producer="chain17" in="00:00:00.000" out="00:00:00.650"/>
+    <transition id="transition8" out="00:00:00.650">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma17.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition9" out="00:00:00.650">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain18" out="00:00:20.500">
+    <property name="length">00:00:20.517</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/7.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">60c4e9b33eebe38bbce134aff4130964</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">7.webm</property>
+  </chain>
+  <tractor id="tractor5" in="00:00:00.000" out="00:00:00.933">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain17" in="00:00:21.033" out="00:00:21.967"/>
+    <track producer="chain18" in="00:00:02.350" out="00:00:03.283"/>
+    <transition id="transition10" out="00:00:00.933">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma11.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition11" out="00:00:00.933">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain19" out="00:00:15.183">
+    <property name="length">00:00:15.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/8.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0823588ed61a78aca545c0a84b7e2fa6</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">8.webm</property>
+  </chain>
+  <tractor id="tractor6" in="00:00:00.000" out="00:00:00.933">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain18" in="00:00:19.567" out="00:00:20.500"/>
+    <track producer="chain19" in="00:00:00.000" out="00:00:00.933"/>
+    <transition id="transition12" out="00:00:00.933">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma19.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition13" out="00:00:00.933">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain20" out="00:00:20.867">
+    <property name="length">00:00:20.883</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/9.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">23493d3b7d92c5bcc4cc7aba20821a69</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">9.webm</property>
+  </chain>
+  <tractor id="tractor7" in="00:00:00.000" out="00:00:01.150">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain19" in="00:00:14.033" out="00:00:15.183"/>
+    <track producer="chain20" in="00:00:00.000" out="00:00:01.150"/>
+    <transition id="transition14" out="00:00:01.150">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition15" out="00:00:01.150">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain21" out="00:00:18.967">
+    <property name="length">00:00:18.983</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/10.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2420874069786c3653d00b0b4cc46910</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">10.webm</property>
+  </chain>
+  <tractor id="tractor8" in="00:00:00.000" out="00:00:01.150">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain20" in="00:00:19.717" out="00:00:20.867"/>
+    <track producer="chain21" in="00:00:00.000" out="00:00:01.150"/>
+    <transition id="transition16" out="00:00:01.150">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition17" out="00:00:01.150">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain22" out="00:00:24.400">
+    <property name="length">00:00:24.417</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/11.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5eb8438e2518fad1df5182d9f93edb43</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">11.webm</property>
+  </chain>
+  <tractor id="tractor9" in="00:00:00.000" out="00:00:01.117">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain21" in="00:00:17.850" out="00:00:18.967"/>
+    <track producer="chain22" in="00:00:00.000" out="00:00:01.117"/>
+    <transition id="transition18" out="00:00:01.117">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition19" out="00:00:01.117">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain23" out="00:00:18.517">
+    <property name="length">00:00:18.533</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/12.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ea3972c025bf77f75ce29a978e3e0594</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">12.webm</property>
+  </chain>
+  <tractor id="tractor10" in="00:00:00.000" out="00:00:01.117">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain22" in="00:00:23.283" out="00:00:24.400"/>
+    <track producer="chain23" in="00:00:00.000" out="00:00:01.117"/>
+    <transition id="transition20" out="00:00:01.117">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition21" out="00:00:01.117">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <chain id="chain24" out="00:00:14.483">
+    <property name="length">00:00:14.500</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/alumnat/Vídeos/Grabaciones de la pantalla/13.webm</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">341d11318f5a0536b7ce3ace9d8caacd</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">13.webm</property>
+  </chain>
+  <tractor id="tractor11" in="00:00:00.000" out="00:00:01.183">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain23" in="00:00:17.333" out="00:00:18.517"/>
+    <track producer="chain24" in="00:00:00.000" out="00:00:01.183"/>
+    <transition id="transition22" out="00:00:01.183">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition23" out="00:00:01.183">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain25" in="00:00:00.000" out="00:00:10.350"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.700"/>
+    <entry producer="chain13" in="00:00:00.717" out="00:00:13.300"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.917"/>
+    <entry producer="chain14" in="00:00:01.850" out="00:00:09.300"/>
+    <entry producer="tractor2" in="00:00:00.000" out="00:00:00.600"/>
+    <entry producer="chain15" in="00:00:00.617" out="00:00:12.483"/>
+    <entry producer="tractor3" in="00:00:00.000" out="00:00:00.767"/>
+    <entry producer="chain16" in="00:00:00.783" out="00:00:11.400"/>
+    <entry producer="tractor4" in="00:00:00.000" out="00:00:00.650"/>
+    <entry producer="chain17" in="00:00:00.667" out="00:00:21.017"/>
+    <entry producer="tractor5" in="00:00:00.000" out="00:00:00.933"/>
+    <entry producer="chain18" in="00:00:03.300" out="00:00:19.550"/>
+    <entry producer="tractor6" in="00:00:00.000" out="00:00:00.933"/>
+    <entry producer="chain19" in="00:00:00.950" out="00:00:14.017"/>
+    <entry producer="tractor7" in="00:00:00.000" out="00:00:01.150"/>
+    <entry producer="chain20" in="00:00:01.167" out="00:00:19.700"/>
+    <entry producer="tractor8" in="00:00:00.000" out="00:00:01.150"/>
+    <entry producer="chain21" in="00:00:01.167" out="00:00:17.833"/>
+    <entry producer="tractor9" in="00:00:00.000" out="00:00:01.117"/>
+    <entry producer="chain22" in="00:00:01.133" out="00:00:23.267"/>
+    <entry producer="tractor10" in="00:00:00.000" out="00:00:01.117"/>
+    <entry producer="chain23" in="00:00:01.133" out="00:00:17.317"/>
+    <entry producer="tractor11" in="00:00:00.000" out="00:00:01.183"/>
+    <entry producer="chain24" in="00:00:01.200" out="00:00:14.483"/>
+  </playlist>
+  <tractor id="tractor12" title="Shotcut version 22.01.30" in="00:00:00.000" out="00:03:20.950">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">0.816136</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <transition id="transition24">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition25">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>
